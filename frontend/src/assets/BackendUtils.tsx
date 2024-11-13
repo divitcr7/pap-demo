@@ -1,0 +1,1 @@
+export const backendUrl = "https://divit-code.onrender.com"
